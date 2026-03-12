@@ -1,0 +1,12 @@
+:root {
+  --white: hsl(212, 80%, 68%);
+
+  --slate-300: hsl(212, 45%, 89%);
+  --slate-500: hsl(216, 15%, 48%);
+  --slate-900: hsl(218, 44%, 22%);
+
+  font-family: "Outfit", sans-serif;
+  font-size-body: 15px;
+  font-weight-bold: 600;
+  font-weight-normal: 400;
+}
