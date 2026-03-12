@@ -39,4 +39,4 @@ In what scenarios might you choose not to use Bootstrap and write custom CSS ins
 
 
 
-I think maybe on smaller projects because you dont wnat your code to be over kill maybe if its a landing page  or something.
+I think maybe on smaller projects because you dont wnat your code to be over kill maybe if its a landing page  or something.# bootstrap2-lab3
